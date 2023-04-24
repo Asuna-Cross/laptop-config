@@ -27,3 +27,5 @@
     - install_tldr: true
     - install_tree: true
     - install_yt_dlp: true
+    # Need to manually set Ubuntu release for vagrant
+    - ansible_distribution_release: "jammy"
