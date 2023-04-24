@@ -3,3 +3,8 @@
   scm: git
   version: master
   name: gui-tools
+
+- src: https://gitlab.com/johnroberts/ansiblerole-cli-tools.git
+  scm: git
+  version: master
+  name: cli-tools

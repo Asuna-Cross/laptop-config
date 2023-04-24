@@ -15,3 +15,15 @@
     - install_virtualbox: true
     - install_redshift: true
     - flameshot_autostart: true
+
+- name: Mass Install CLI
+  hosts: all
+  roles:
+    - cli-tools
+  vars:
+    - install_zsh: true
+    - install_htop: true
+    - install_vagrant: true
+    - install_tldr: true
+    - install_tree: true
+    - install_yt_dlp: true
