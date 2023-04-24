@@ -1,0 +1,5 @@
+#Ignore Everything
+/*
+#Apart from these two, we need these
+!.gitignore
+!requirements.yml

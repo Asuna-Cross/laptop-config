@@ -1,0 +1,5 @@
+---
+- src: https://gitlab.com/johnroberts/ansiblerole-gui-tools.git
+  scm: git
+  version: master
+  name: gui-tools

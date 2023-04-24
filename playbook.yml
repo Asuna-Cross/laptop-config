@@ -1,0 +1,17 @@
+---
+- name: Mass Install
+  hosts: all
+  roles:
+    - gui-tools
+  vars:
+    - install_bitwarden: true
+    - install_vscode: true
+    - install_simplescreenrecorder: true
+    - install_flameshot: true
+    - install_guake: true
+    - install_slack: true
+    - install_zoom: true
+    - install_zulucrypt_gui: true
+    - install_virtualbox: true
+    - install_redshift: true
+    - flameshot_autostart: true
