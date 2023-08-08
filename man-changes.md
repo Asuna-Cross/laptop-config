@@ -1,6 +1,9 @@
 Background wallpaper
+
 Setting git username and email
+
 SSH key for git
+
 Firefox customisation
     - Ad blocker
     - Bitwarden
@@ -8,8 +11,15 @@ Firefox customisation
     - Temp Containers
     - Cookies
     - Trackers
+
 Organised git directory
+
 VS Code Customisation
+
 Installed ansible
+
 Workspaces
+
 Guak Theming
+
+Added Japanese Mozc keyboard
